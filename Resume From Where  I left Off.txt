@@ -1,0 +1,3 @@
+Start https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/write-your-first-code-using-c-sharp/perform-basic-operations-on-numbers-in-c-sharp
+Start https://learn.microsoft.com/en-us/training/modules/csharp-basic-operations/
+Exit
